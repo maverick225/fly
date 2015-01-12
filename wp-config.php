@@ -83,3 +83,5 @@ define('WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST']);
 define('WP_HOME', 'http://' . $_SERVER['HTTP_HOST']);
 //define('WP_ALLOW_MULTISITE', true);
 
+//update_option('siteurl','http://' . $_SERVER['HTTP_HOST']);
+//update_option('home','http://' . $_SERVER['HTTP_HOST']);
